@@ -4,8 +4,6 @@
 # "2" - Delete the element  from the heap.
 # "3" - Print the minimum of all the elements in the heap.
 
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-# Enter your code here. Read input from STDIN. Print output to STDOUT
 class Heap:
     
     def __init__(self):
